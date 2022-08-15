@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @AbdiiAnawerJunda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+wifi-hacker
+Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
 
-<!---
-AbdiiAnawerJunda/AbdiiAnawerJunda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Installation in Android(Termux)
+pkg install wget
+
+pkg install openssh
+
+pkg install php
+
+pkg install curl
+
+git clone https://github.com/TermuxHackz/wifi-hacker
+
+cd wifi-hacker
+
+chmod +x *
+
+ls
+
+bash wifi-hacker.sh
